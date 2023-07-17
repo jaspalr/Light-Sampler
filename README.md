@@ -1,6 +1,6 @@
 # Light-Sampler
-Uses a photoresitstor to measure the number of light dips that happen and displays them using a 14-segment display and a UDP client. Also 
-uses a potentiometer to determine size of the buffer. 
+Uses a photoresitstor to measure the number of light dips and displays them using a 14-segment display and a UDP client. Also 
+uses a potentiometer to determine the size of the buffer. 
 
 ## To Run:
 &nbsp; &nbsp; &nbsp; Type "Make" into the host's terminal  \
