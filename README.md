@@ -1,5 +1,5 @@
 # Light-Sampler
-Uses a photoresitstor to measure the number of light dips and displays them using a 14-segment display and a UDP client. Also 
+Uses a photoresitstor to measure the number of light dips and displays them using a 14-segment display and an UDP client. Also 
 uses a potentiometer to determine the size of the buffer. 
 
 ## To Run:
@@ -14,7 +14,7 @@ uses a potentiometer to determine the size of the buffer.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "count - shows the number of samples taken \
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "length" - shows size of the buffer and number of samples in the buffer \
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "history" - shows the samples in the buffer \
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; get \<x> - shows the last x samples \
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "get \<x>" - shows the last x samples \
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "dips" - shows the number of dips in the buffer \
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "stop" - stops the program 
 
